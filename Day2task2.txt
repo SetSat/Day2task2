@@ -1,0 +1,16 @@
+Document:
+ The Document Object is an essential component of web browsers and represents the parsed HTML structure of a web page. 
+It encapsulates the content, structure, and functionality of the loaded webpage, providing access to elements, 
+styles, scripts, and other resources. 
+In a typical web browsing scenario, the Document Object is responsible for rendering web content and handling user
+ interactions, making it the cornerstone of the user's web experience.
+
+
+
+
+Windows objects
+
+
+The Window object is responsible for displaying the decrypted web content to the user.
+It manages the rendering of HTML, CSS, JavaScript, and other resources on the web page.
+we can access document in windows section and also all function that used in the webpage
